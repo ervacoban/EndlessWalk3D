@@ -1,6 +1,8 @@
 # Endless Walk 3D
 Endless zigzag game made with Unity. I experimented with animations, sound effects and 3D objects.
 
+Gameplay: https://www.youtube.com/watch?v=3b4JoDo7BWo
+
 Assets taken from:
 - Animations -> mixamo.com
 - Character model -> mixamo.com
